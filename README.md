@@ -1,2 +1,5 @@
 # hello-world
-helloword-first
+
+Hi Guys
+
+Welcome to study Git
